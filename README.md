@@ -16,6 +16,6 @@ As implementações foram testadas com instâncias da OR-Library, utilizando 40 
 
 ## Autores
 
-- **Fabio Franco de Azevedo** (Bacharel em Ciência da Computação) - [fabio.franco@sga.pucminas.br](mailto:fabio.franco@sga.pucminas.br)
+- **Luis Guedes** (Bacharel em Ciência da Computação) - [lhdguedes@sga.pucminas.br](mailto:lhdguedes@sga.pucminas.br)
 - **Pedro Rafael Madeira Vasconcelos** (Bacharel em Ciência da Computação) - [pedro.madeira@sga.pucminas.br](mailto:pedro.madeira@sga.pucminas.br)
 - **Thiago Teixeira Oliveira** (Bacharel em Ciência da Computação) - [thiago.oliveira.1205087@sga.pucminas.br](mailto:thiago.oliveira.1205087@sga.pucminas.br)
